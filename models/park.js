@@ -14,5 +14,6 @@ Park.prototype.addDinosaur = function(dinosaurToAdd){
 Park.prototype.removeDinosaur = function(dinosaurToRemove) {
     this.collection.shift(dinosaurToRemove);
 }
+// Should have used splice
 
 module.exports = Park;

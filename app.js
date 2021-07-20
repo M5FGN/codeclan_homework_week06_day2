@@ -41,3 +41,8 @@ console.log(park.collection);
 console.log(park.collection.length)
 
 // Finding the dinosaur that attracts the most visitors
+
+
+// todo - Try adding dinosaurs to the collection at start 
+// todo - Add more dinosaurs to start
+// 
